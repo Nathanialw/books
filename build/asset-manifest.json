@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.cce7595b.css",
+    "main.js": "/static/js/main.580d9803.js",
+    "static/media/Oh, the Places You'll Go.jpg": "/static/media/Oh, the Places You'll Go.2cfddcdc21db1c92d4db.jpg",
+    "static/media/The Real Anthony Fauci: Bill Gates, Big Pharma, and the Global War on Democracy and Public.jpg": "/static/media/The Real Anthony Fauci: Bill Gates, Big Pharma, and the Global War on Democracy and Public.7ea890a8d1ac97d6b6f8.jpg",
+    "static/media/Outlive: The Science and Art of Longevity.jpg": "/static/media/Outlive: The Science and Art of Longevity.e45cfbbed998c450b5fd.jpg",
+    "index.html": "/index.html",
+    "main.cce7595b.css.map": "/static/css/main.cce7595b.css.map",
+    "main.580d9803.js.map": "/static/js/main.580d9803.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cce7595b.css",
+    "static/js/main.580d9803.js"
+  ]
+}
